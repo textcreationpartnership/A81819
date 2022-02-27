@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Duke of Norfolk's case with reasons for passing his bill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81819</idno>
+            <idno type="STC">Wing D2515</idno>
+            <idno type="STC">ESTC R171857</idno>
+            <idno type="EEBO-CITATION">45789275</idno>
+            <idno type="OCLC">ocm 45789275</idno>
+            <idno type="VID">172586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172586)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Duke of Norfolk's case with reasons for passing his bill.</title>
+               </titleStmt>
+               <extent>1 sheet (p. 3-4).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jer. Wilkins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norfolk, Henry Howard, --  Duke of, 1655-1701.</term>
+               <term>Divorce suits --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:172586:1" rendition="simple:additions"/>
+            <head>THE Duke of Norfolk's Caſe: WITH REASONS for Paſſing his BILL.</head>
+            <p>IF want either of Precedent for a <hi>Parliamentary Divorce,</hi> before going through the tedious and in<g ref="char:EOLhyphen"/>effectual Methods of <hi>Docters Commons,</hi> or of Demonſtration of Fact, have hitherto deprived the <hi>Duke of Norfolk</hi> of that Relief againſt his Wives Adultery, which the <hi>Divine Law</hi> allows; The late Statute made in the like Caſe and the Coming in of Two, who while the <hi>Duke's</hi> former Bill was depending, had been ſent away to prevent that Diſcovery which they now make; cannot but be thought to remove all Objections againſt an Act of Parliament, not only for the benefit of the <hi>Duke,</hi> but of the <hi>Publick;</hi> as a means to preſerve the Inheritance of ſo great an Office, and Honours to Per<g ref="char:EOLhyphen"/>ſons of the true Religion.</p>
+            <p>And ſince <hi>Biſhop Cozens</hi> his Argument in the Lord <hi>Roſs's</hi> Caſe has made it Evident, That thoſe Ca<g ref="char:EOLhyphen"/>nons which govern the <hi>Spiritual Court</hi> in this matter, are but the remains of Popery; nothing can be now requiſite to ſatisfie the moſt ſcrupulous of the <hi>Reformed Religion,</hi> but ro ſet the Duke's Proofs of his Lady's Adultery in a true Light</p>
+            <p>The Reputation which the Dutcheſs had maintained, of Wit and Diſcretion, made it difficult for many to believe, that ſhe could be ſurprized in the very Act of Adultery, as had been formerly prov<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. And though then it appeared, that one <hi>Henry Keemer</hi> lived with the Dutcheſs, while ſhe went by a feigned Name at an Houſe hired for her at <hi>Fox-Hall,</hi> by Sr <hi>John German's</hi> Brother; and that <hi>Nicola,</hi> who then lived with <hi>Sir John,</hi> uſed to receive <hi>Wood</hi> ſent from the Dutcheſs to Sir <hi>John's</hi> houſe by the Cock<g ref="char:EOLhyphen"/>pit; the withdrawing of <hi>Nicola;</hi> and carrying with him the <hi>Dutch</hi> Maid, equally Entruſted with the ſecret on Sir <hi>John's</hi> ſide; left no Evidence of their Conſtant Converſation, but <hi>Keemer</hi> ſince dead, and <hi>Suſannah Barrington,</hi> who had the like Truſt from the Dutcheſs</p>
+            <p>
+               <hi>Keemer,</hi> though very unwillingly, ſome years ſince confeſſed his living with the Dutcheſs at <hi>Fox-hall,</hi> where he pretended ſhe was obliged to conceal her ſelf for Debt; and what ſhare <hi>Suſannah</hi> had in the ſe<g ref="char:EOLhyphen"/>cret was unknown, till <hi>Nicola</hi> appeared: <hi>Nicola</hi> coming into <hi>England</hi> ſometime ſince in Expectation of a Service, expreſs'd his readineſs to diſcover what he knew and to Endeavour to bring with him the <hi>Dutch</hi> Maid.</p>
+            <p>She proves, That for two Months the firſt Summer after the King came for <hi>England,</hi> Sir <hi>John Germain</hi> and the Dutcheſs lived together <hi>as Man and Wife,</hi> and were ſeen in Bed<note place="margin">
+                  <hi>Eleanor Vaneſs</hi> Exam. 22. <hi>Feb. 1699.</hi>
+               </note> together by her, Mr. <hi>Bryan,</hi> and his VVife, Sir <hi>John's</hi> Siſter: and that <hi>Nicholas Hauſeur,</hi> Sir <hi>John's Va<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de Chambre,</hi> uſed to be aſſiſting to him; as the <hi>Dutcheſs's Woman, Suſannah Barrington,</hi> was to her, at going to Bed, and riſing.</p>
+            <p>She proves the like Converſation at <hi>Fox-hall,</hi> and the Dutcheſs's <hi>Houſe</hi> at the <hi>Millbank,</hi> till the <hi>Duke's</hi> firſt Bill for a Divorce was depending; within which time <hi>Nicholas Hauſeur,</hi> by Sir <hi>John's</hi> Order, carry<g ref="char:EOLhyphen"/>ed her away, and <hi>Suſannah Barrington,</hi> with intention of going for <hi>Holland,</hi> to prevent their being Exa<g ref="char:EOLhyphen"/>mined to what they knew; but the wind proving contrary, thev could not go till the Bill was rejected; and then Sir <hi>John</hi> fetch'd back <hi>Suſannah,</hi> who was moſt uſeful to the Dutcheſs; but <hi>Hauſeur</hi> went for <hi>Holland</hi> with <hi>Ellen.</hi>
+            </p>
+            <p>He confirms <hi>Ellen's</hi> Evidence in every particular; and beſides the Perſons mention'd by <hi>Ellen</hi> as privy to Sir <hi>John's</hi> lving with the Dutcheſs, names Sir <hi>John's</hi> Brother <hi>Daniel. Nicholas</hi> having been found very truſty, his Maſter ſent for him to return to his Service; and gave him<note place="margin">Nicholas Hauſeur.</note> the opportunity of proving the Continuance of the ſame Adulterous Converſation at ſe<g ref="char:EOLhyphen"/>veral Times and Places, from the Summer 1692. to the <hi>26th.</hi> of <hi>April</hi> 1696. He ſwears he had after his return to Sir <hi>John's</hi> Service, ſeen them in Bed together at Sir <hi>John's</hi> Houſe, at the <hi>Cockpit,</hi> and at the Dutcheſs's Houſes at <hi>Millbank,</hi> and where ſhe now lives; and uſed to be let into the Dutcheſs's Apart<g ref="char:EOLhyphen"/>ment by <hi>Suſannah Barrington,</hi> or <hi>Keemer.</hi> Nor can any Man who ſhall read the ample Teſtimonials gi<g ref="char:EOLhyphen"/>ven Mr. <hi>Hauſeur</hi> by Sir <hi>John;</hi> by the laſt of which it appears that he ſerved him faithfully as his Stew<g ref="char:EOLhyphen"/>ard, reaſonably queſtion <hi>Hauſeur's</hi> Credit.</p>
+            <p>Another who had been advanced by Sir <hi>John</hi> from his Footman to Mr. <hi>Hauſeur's</hi> place,<note place="margin">William Bayly.</note> and from thence to a good Office in the Exciſe, very unwillingly confirmed the Teſtimo<g ref="char:EOLhyphen"/>ny of <hi>Hauſer</hi> and the <hi>Dutch Maid,</hi> not only as to the time of their going from the Service of Sir <hi>John</hi> and the Dutcheſs, but though being no Foreigner, he could not ſo eaſily be ſent away to prevent diſco<g ref="char:EOLhyphen"/>very, and therefore was not let ſo far into the ſecret as <hi>Houſeur</hi> and the <hi>Dutch Maid;</hi> yet he ſwears the Dutcheſs uſed to come mask'd to his Maſter's Houſe that he has gone with him as far as the <hi>Horſe<g ref="char:EOLhyphen"/>ferry</hi> towards her Houſe at the <hi>Mill-bank;</hi> that then his Maſter ſometimes <hi>lay out all Night,</hi> and the next morning he has <hi>carried Linnen and Cloaths</hi> for his <hi>Maſter</hi> to <hi>Keemer's</hi> Houſe, or <hi>Keemer</hi> has fetch'd them from him: And this he proves to have been ſince the rejecting the former Bill, and about Five Years ſince when he was ſucceeded by <hi>Hauſeur,</hi> as before he had ſucceeded <hi>Hauſeur.</hi>
+            </p>
+            <p>Two other Foreigners, <hi>La Fountain</hi> who had lived with Sir <hi>John.</hi> and was Served with Summons at the <hi>Dutcheſe's</hi> Houſe at <hi>Dravton;</hi> and <hi>Hugonee,</hi> who ran away from the <hi>Lord Haverſham's</hi> ſince Summons was taken out againſt him; ſeem to have had the ſame Truſt that <hi>Hauſeur</hi> had: for both declared. That nothing ſhould oblige them to <hi>betray their Maſter's Secrets:</hi> One ſaid, <hi>No Court could diſpenſe with his Oath of Secreey:</hi> and both declared they would immediately go beyond Sea. Summons have been taken out for Mr. <hi>Brian</hi> and his VVife, and Sir <hi>John Germain's</hi> Brother (who are, or lately were in Town) to confeſs
+<pb n="4" facs="tcp:172586:2"/> or deny what <hi>Nichola</hi> and <hi>Ellen</hi> appeal to them for: and it cannot be imagined that Sir <hi>John</hi> ſhould chuſe the Honour of being thought to have to do with a <hi>Dutcheſs,</hi> before the Clearing her and himſelf from the Imputation, by bringing his Relations to diſprove the Charge, if what is ſworn to be within their know<g ref="char:EOLhyphen"/>ledge is falſe.</p>
+            <p>And if Sir <hi>John's</hi> Vanity ſhould prevail with him, at leaſt it is to be preſumed, that his Re<g ref="char:EOLhyphen"/>lations would be more juſt to him and the Lady, than to ſuffer any thing to paſs againſt them, which they could with Truth and Juſtice prevent.</p>
+            <p>But ſince none of them appear, the World will believe their abſenting more than a thouſand Witneſſes, in confirmation of what Mr. <hi>Hauſeur, Ellen</hi> and <hi>Bayly,</hi> have ſworn. Whoſe Evidence not only ſtands untouch'd by any thing offered by the <hi>Dutcheſs's</hi> Witneſſes, but is plainly con<g ref="char:EOLhyphen"/>firmed by them in the principal parts.</p>
+            <p>This being the nature of the proofs, 'tis obſervable,</p>
+            <p n="1">1. That there never yet was any Caſe of this kind, where the Evidence was not liable to greater Objections than can be made to this.</p>
+            <p>Though in the lateſt Caſe of this kind, there was full Conviction of the Ladies having Chil<g ref="char:EOLhyphen"/>dren while ſhe lived ſeparate from her Husband; and the preſumption was very violent whoſe the Children were; yet this was but preſumption, and that was weakned by the preſumption in Law that they were the Husbands; eſpecially ſince there was no direct proof of the Lover's ever lying with her.</p>
+            <p n="2">2. Tho in that caſe, by reaſon of the interval of Parliament, and fear of the deaths of Wit<g ref="char:EOLhyphen"/>neſſes, a Suit was begun in <hi>Doctors Commons,</hi> 'twas taken from thence while the Suit was depend<g ref="char:EOLhyphen"/>ing; therefore that was rather an Objection againſt proceeding in Parliament than an Argument for it.</p>
+            <p n="3">3. In that Caſe, ſeveral Witneſſes were examined at the Bars of both Houſes, who had not been examined at <hi>Doctors Commons,</hi> nor any notice given of their Names before their Examination.</p>
+            <p n="4">4. It appears by that Caſe, and the preſent, that the Examinations in Parliament are more ſolemn and certain than thoſe of the Spiritual Court; which depend too much upon the Honeſty of the Regiſter, or his Deputy.</p>
+            <p n="5">5. Before that Caſe, Parliaments have either broken through the Rules which<note place="margin">1 Eliz n. 31.</note> bind the Spiritual Court, as in the Caſe of the Duke of <hi>Norfolk, 1 Eliz.</hi> where the Parliament ratified a Marriage, <hi>as lawful according to God's Law; tho protracted and letted, by reaſon of certain Decrees and Canons of the Popes Law;</hi> or elſe have diſſolved a Mar<g ref="char:EOLhyphen"/>riage where there had been no application to <hi>Doctors Commons,</hi> as in the Caſe of<note place="margin">2. &amp; 3. <hi>W. M.</hi>
+               </note> Mrs. <hi>Wharton,</hi> who had been married to Mr. <hi>Cambel;</hi> and yet there had been no Examination of Witneſſes, but what had been before the two Houſes.</p>
+            <p>So long before, in the Caſe of Sir <hi>Ralph Sadler,</hi> upon proof before the two Houſes that the Lady <hi>Sadlers</hi> former Husband had deſerted her and diſappeared for Four<note place="margin">
+                  <hi>37. H</hi> 8:</note> Years before ſhe Marryed Sir <hi>Ralph,</hi> the Parliament Legitimated her Children by Sir <hi>Ralph.</hi>
+            </p>
+            <p>Whereas ſome Object againſt the Paſſing the Bill, as if it would countenance a Juriſdiction in the Houſe of Lords to examine to ſuch matters, in the firſt Inſtance or Originally; the Ob<g ref="char:EOLhyphen"/>jection would be the ſame if it had begun, as it might, in the Houſe of Commons; but in truth would be of equal force againſt moſt private and ſeveral publick Acts, occaſioned by the exa<g ref="char:EOLhyphen"/>mination of Witneſſes, or Notoriety of Fact.</p>
+            <p>Since therefore the Duke has ſo long, and ſo often in vain endeavoured to be freed from a Lady, publickly famed and proved to have lived with Sir <hi>John Germain,</hi> as his Wife; the Duke's former diſappointments cannot but be powerful Arguments for his ſpeedy obtaining that Juſtice which the Spiritual Court cannot give him; their Power reaching no further than to that liberty of living as <hi>ſhe liſt;</hi> ſome years ſince ſetled by Articles: But as none of leſs Art and Oratory than her Counſel could have turned this into a Licenſe to commit Adultery, <hi>if ſhe Liſt,</hi> or a Pardon afterwards; had there not been evidence of her Acting according to ſuch Con<g ref="char:EOLhyphen"/>ſtruction, the Duke would have hoped ſhe had repented of the former Injuries he had received from her; but now hopes ſhe ſhall not longer continue to bear the Name of his Wife, and put him in danger of being ſucceeded by Sir <hi>John Germain's</hi> Iſſue, or deprive him of the ex<g ref="char:EOLhyphen"/>pectation of leaving his <hi>Honours, Offices,</hi> and <hi>Eſtate,</hi> to a <hi>Proteſtant Heir.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>BY Vertue of an Order, Obtain'd from His Grace the <hi>Duke</hi> of <hi>Norfolk, Earle Marſhal</hi> of <hi>England: Jeremiah Wil<g ref="char:EOLhyphen"/>kins,</hi> is hereby Authoriz'd to Print, and Publiſh His Caſe, and that no other do preſume to Print, or Publiſh the ſame.</p>
+            <p>
+               <hi>By His Grace the</hi> Duke <hi>of</hi> Norfolk'<hi>s Special Command.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Jer. Wilkins,</hi> near <hi>Fleet-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
